@@ -56,7 +56,7 @@ Contributions are welcome! Feel free to fork this repository, create a new branc
 
 ## 📬 Contact
 If you have any questions or suggestions, feel free to reach out! 😊
-### 📧 Email: nifeesleman@ghmail.com
+### 📧 Email: nifeesleman@gmail.com
 ### 💬 Telegram: @nifeesleman
 
 
